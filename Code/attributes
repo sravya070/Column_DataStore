@@ -1,0 +1,6 @@
+studentdb
+student
+studentName:string
+gender:string
+phoneNumber:int
+Address:string

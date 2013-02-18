@@ -1,0 +1,3 @@
+use studentdb
+insert into student values('nagashree','F',9535182189,bangalore);
+
