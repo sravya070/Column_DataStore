@@ -1,0 +1,34 @@
+<database id="">
+   <name>studentdb</name>
+    <table id="">
+	<table_name>student</table_name>
+<attribute id="">
+	<attrname>RollNo</attrname>
+	<attrtype>string</attrtype>
+	<size>15</size>
+   </attribute>	
+   <attribute id="">
+	<attrname>studentName</attrname>
+	<attrtype>string</attrtype>
+	<size>10</size>
+   </attribute>
+   <attribute id="">
+	<attrname>gender</attrname>
+	<attrtype>int</attrtype>
+	<size>10</size>
+   </attribute>	
+	
+<attribute id="">
+	<attrname>phoneNumber</attrname>
+	<attrtype>int</attrtype>
+	<size>10</size>
+   </attribute>	
+	</table>
+<attribute id="">
+	<attrname>Address</attrname>
+	<attrtype>string</attrtype>
+	<size>10</size>
+   </attribute>	
+
+	</table>
+  </database>
