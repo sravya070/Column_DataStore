@@ -1,0 +1,37 @@
+create datastore tennis.xml
+load datastore tennis.xml
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,F,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+retrieve RollNo,Address,gender where id=mt2012110
+retrieve RollNo,Address,gender where id=mt2012111
+retrieve RollNo,Address,gender where id=mt2012112
+retrieve RollNo,Address,gender where id=mt2012156
+retrieve RollNo,Address,gender where id=mt2012157
+retrieve RollNo,Address,gender where id=mt2012113
+retrieve RollNo,Address,gender where id=mt2012114
+retrieve RollNo,Address,gender where id=mt2012115
+retrieve RollNo,Address,gender where id=mt2012116
+retrieve RollNo,Address,gender where id=mt2012117
+retrieve RollNo,Address,gender where id=mt2012118
+retrieve RollNo,Address,gender where id=mt2012119
+

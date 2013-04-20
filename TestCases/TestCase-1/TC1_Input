@@ -1,0 +1,9 @@
+create datastore tennis.xml
+load datastore tennis.xml
+update studentName=Nagashree where id=mt2012084 
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012122,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+retrieve RollNo,Address,gender where id=mt2012122
+

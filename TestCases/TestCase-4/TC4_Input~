@@ -1,0 +1,59 @@
+create datastore tennis.xml
+load datastore tennis.xml
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,nellore
+insert mt2012115,sravani,F,9916580494,mysore
+insert mt2012116,shikha,F,9916580494,bhopal
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+insert mt2012121,vamsi,F,9916580494,vizag
+insert mt2012122,nalini,F,9916580494,vizag
+insert mt2012123,pragna,F,9916580494,chandigarh
+insert mt2012124,aswini,F,9916580494,ooty
+insert mt2012125,priya,F,9916580494,eluru
+insert mt2012126,prasanth,F,9916580494,chidambaram
+insert mt2012127,deepthi,F,9916580494,ongole
+insert mt2012128,prabha,F,9916580494,kumbakonam
+insert mt2012129,vidyasekhar,M,9916580494,vizag
+insert mt2012130,shatakirthi,M,9916580494,vizag
+insert mt20121140,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update RollNo,Address,gender where id=mt2012110
+update gender=M where id=mt2012070
+update gender=M where id=mt2012121
+update gender=M where id=mt2012122
+update gender=M where id=mt2012123
+update gender=M where id=mt2012124
+update gender=M where id=mt2012125
+update gender=M where id=mt2012126
+update gender=M where id=mt2012127
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012121
+retrieve studentName,Address,gender where id=mt2012122
+retrieve studentName,Address,gender where id=mt2012123
+retrieve studentName,Address,gender where id=mt2012124
+retrieve studentName,Address,gender where id=mt2012115
+retrieve studentName,Address,gender where id=mt2012116
+retrieve studentName,Address,gender where id=mt2012169
+retrieve studentName,Address,gender where id=mt2012157
+retrieve studentName,Address,gender where id=mt2012200
+retrieve studentName,Address,gender where id=mt2012300
+

@@ -1,0 +1,2043 @@
+load datastore tennis.xml
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,puneeth,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+insert mt2012201,anne,F,9916580494,vizag
+insert mt2012202,preethi,F,9916580494,vizag
+insert mt2012203,yamini,F,9916580494,vizag
+insert mt2012204,varsha,F,9916580494,vizag
+insert mt2012205,sravani,F,9916580494,vizag
+insert mt2012206,shikha,F,9916580494,vizag
+insert mt2012207,prabha,F,9916580494,vizag
+insert mt2012208,kamaldeep,F,9916580494,vizag
+insert mt2012209,shatakirthi,M,9916580494,vizag
+insert mt2012210,sravvani,F,9916580494,vizag
+insert mt2012211,anne,F,9916580494,vizag
+insert mt2012212,preethi,F,9916580494,vizag
+insert mt2012213,yamini,F,9916580494,vizag
+insert mt2012214,varsha,F,9916580494,vizag
+insert mt2012215,sravani,F,9916580494,vizag
+insert mt2012216,shikha,F,9916580494,vizag
+insert mt2012217,prabha,F,9916580494,vizag
+insert mt2012218,kamaldeep,F,9916580494,vizag
+insert mt2012219,shatakirthi,M,9916580494,vizag
+insert mt2012220,sravvani,F,9916580494,vizag
+insert mt2012222,anne,F,9916580494,vizag
+insert mt2012223,preethi,F,9916580494,vizag
+insert mt2012224,yamini,F,9916580494,vizag
+insert mt2012225,varsha,F,9916580494,vizag
+insert mt2012226,sravani,F,9916580494,vizag
+insert mt2012227,shikha,F,9916580494,vizag
+insert mt2012228,prabha,F,9916580494,vizag
+insert mt2012229,kamaldeep,F,9916580494,vizag
+insert mt2012230,shatakirthi,M,9916580494,vizag
+insert mt2012240,sravvani,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+insert mt2012301,anne,F,9916580494,vizag
+insert mt2012302,preethi,F,9916580494,vizag
+insert mt2012303,yamini,F,9916580494,vizag
+insert mt2012304,varsha,F,9916580494,vizag
+insert mt2012305,sravani,F,9916580494,vizag
+insert mt2012306,shikha,F,9916580494,vizag
+insert mt2012307,prabha,F,9916580494,vizag
+insert mt2012308,kamaldeep,F,9916580494,vizag
+insert mt2012309,shatakirthi,M,9916580494,vizag
+insert mt2012310,sravvani,F,9916580494,vizag
+insert mt2012311,anne,F,9916580494,vizag
+insert mt2012312,preethi,F,9916580494,vizag
+insert mt2012313,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012315,sravani,F,9916580494,vizag
+insert mt2012316,shikha,F,9916580494,vizag
+insert mt2012317,prabha,F,9916580494,vizag
+insert mt2012318,kamaldeep,F,9916580494,vizag
+insert mt2012319,shatakirthi,M,9916580494,vizag
+insert mt2012320,sravvani,F,9916580494,vizag
+insert mt2012322,anne,F,9916580494,vizag
+insert mt2012323,preethi,F,9916580494,vizag
+insert mt2012324,yamini,F,9916580494,vizag
+insert mt2012325,varsha,F,9916580494,vizag
+insert mt2012401,anne,F,9916580494,vizag
+insert mt2012402,preethi,F,9916580494,vizag
+insert mt2012403,yamini,F,9916580494,vizag
+insert mt2012404,varsha,F,9916580494,vizag
+insert mt2012405,sravani,F,9916580494,vizag
+insert mt2012406,shikha,F,9916580494,vizag
+insert mt2012407,prabha,F,9916580494,vizag
+insert mt2012408,kamaldeep,F,9916580494,vizag
+insert mt2012409,shatakirthi,M,9916580494,vizag
+insert mt2012410,sravvani,F,9916580494,vizag
+insert mt2012411,anne,F,9916580494,vizag
+insert mt2012412,preethi,F,9916580494,vizag
+insert mt2012413,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012415,sravani,F,9916580494,vizag
+insert mt2012416,shikha,F,9916580494,vizag
+insert mt2012417,prabha,F,9916580494,vizag
+insert mt2012418,kamaldeep,F,9916580494,vizag
+insert mt2012419,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+insert mt20123601,anne,F,9916580494,vizag
+insert mt2012602,preethi,F,9916580494,vizag
+insert mt2012603,yamini,F,9916580494,vizag
+insert mt2012604,varsha,F,9916580494,vizag
+insert mt2012605,sravani,F,9916580494,vizag
+insert mt2012606,shikha,F,9916580494,vizag
+insert mt2012607,prabha,F,9916580494,vizag
+insert mt2012608,kamaldeep,F,9916580494,vizag
+insert mt2012609,shatakirthi,M,9916580494,vizag
+insert mt2012610,sravvani,F,9916580494,vizag
+insert mt2012611,anne,F,9916580494,vizag
+insert mt2012612,preethi,F,9916580494,vizag
+insert mt2012613,yamini,F,9916580494,vizag
+insert mt2012614,varsha,F,9916580494,vizag
+insert mt2012615,sravani,F,9916580494,vizag
+insert mt2012616,shikha,F,9916580494,vizag
+insert mt2012617,prabha,F,9916580494,vizag
+insert mt2012618,kamaldeep,F,9916580494,vizag
+insert mt2012619,shatakirthi,M,9916580494,vizag
+insert mt2012620,sravvani,F,9916580494,vizag
+insert mt2012622,anne,F,9916580494,vizag
+insert mt2012623,preethi,F,9916580494,vizag
+insert mt20123624,yamini,F,9916580494,vizag
+insert mt20123625,varsha,F,9916580494,vizag
+insert mt2012626,anne,F,9916580494,vizag
+insert mt2012627,preethi,F,9916580494,vizag
+insert mt2012703,yamini,F,9916580494,vizag
+insert mt2012704,varsha,F,9916580494,vizag
+insert mt2012705,sravani,F,9916580494,vizag
+insert mt2012706,shikha,F,9916580494,vizag
+insert mt2012707,prabha,F,9916580494,vizag
+insert mt2012708,kamaldeep,F,9916580494,vizag
+insert mt2012709,shatakirthi,M,9916580494,vizag
+insert mt2012710,sravvani,F,9916580494,vizag
+insert mt2012711,anne,F,9916580494,vizag
+insert mt2012712,preethi,F,9916580494,vizag
+insert mt2012713,yamini,F,9916580494,vizag
+insert mt2012714,varsha,F,9916580494,vizag
+insert mt2012715,sravani,F,9916580494,vizag
+insert mt2012716,shikha,F,9916580494,vizag
+insert mt2012717,prabha,F,9916580494,vizag
+insert mt2012718,kamaldeep,F,9916580494,vizag
+insert mt2012719,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+retrieve studentName,Address,gender where id=mt2012804
+retrieve studentName,Address,gender where id=mt2012805
+retrieve studentName,Address,gender where id=mt2012806
+retrieve studentName,Address,gender where id=mt2012807
+retrieve studentName,Address,gender where id=mt2012808
+retrieve studentName,Address,gender where id=mt2012809
+retrieve studentName,Address,gender where id=mt2012810
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2013499
+insert mt2012816,shikha,F,9916580494,vizag
+insert mt2012817,prabha,F,9916580494,vizag
+insert mt2012818,kamaldeep,F,9916580494,vizag
+insert mt2012819,shatakirthi,M,9916580494,vizag
+insert mt2012820,sravvani,F,9916580494,vizag
+insert mt2012822,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012099
+retrieve studentName,Address,gender where id=mt2012088
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012506
+retrieve studentName,Address,gender where id=mt2012507
+retrieve studentName,Address,gender where id=mt2012508
+retrieve studentName,Address,gender where id=mt2012509
+retrieve studentName,Address,gender where id=mt2012510
+retrieve studentName,Address,gender where id=mt2012511
+retrieve studentName,Address,gender where id=mt2012501
+retrieve studentName,Address,gender where id=mt2012502
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+update gender=M where id=mt2012070
+update gender=M where id=mt2012601
+update gender=M where id=mt2012602
+update gender=M where id=mt2012603
+update gender=M where id=mt2012604
+update gender=M where id=mt2012605
+update gender=M where id=mt2012607
+update gender=M where id=mt2012608
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012121
+retrieve studentName,Address,gender where id=mt2012122
+retrieve studentName,Address,gender where id=mt2012123
+retrieve studentName,Address,gender where id=mt2012124
+retrieve studentName,Address,gender where id=mt2012115
+retrieve studentName,Address,gender where id=mt2012116
+retrieve studentName,Address,gender where id=mt2012169
+retrieve studentName,Address,gender where id=mt2012157
+retrieve studentName,Address,gender where id=mt2012200
+retrieve studentName,Address,gender where id=mt2012300
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,puneeth,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+insert mt2012201,anne,F,9916580494,vizag
+insert mt2012202,preethi,F,9916580494,vizag
+insert mt2012203,yamini,F,9916580494,vizag
+insert mt2012204,varsha,F,9916580494,vizag
+insert mt2012205,sravani,F,9916580494,vizag
+insert mt2012206,shikha,F,9916580494,vizag
+insert mt2012207,prabha,F,9916580494,vizag
+insert mt2012208,kamaldeep,F,9916580494,vizag
+insert mt2012209,shatakirthi,M,9916580494,vizag
+insert mt2012210,sravvani,F,9916580494,vizag
+insert mt2012211,anne,F,9916580494,vizag
+insert mt2012212,preethi,F,9916580494,vizag
+insert mt2012213,yamini,F,9916580494,vizag
+insert mt2012214,varsha,F,9916580494,vizag
+insert mt2012215,sravani,F,9916580494,vizag
+insert mt2012216,shikha,F,9916580494,vizag
+insert mt2012217,prabha,F,9916580494,vizag
+insert mt2012218,kamaldeep,F,9916580494,vizag
+insert mt2012219,shatakirthi,M,9916580494,vizag
+insert mt2012220,sravvani,F,9916580494,vizag
+insert mt2012222,anne,F,9916580494,vizag
+insert mt2012223,preethi,F,9916580494,vizag
+insert mt2012224,yamini,F,9916580494,vizag
+insert mt2012225,varsha,F,9916580494,vizag
+insert mt2012226,sravani,F,9916580494,vizag
+insert mt2012227,shikha,F,9916580494,vizag
+insert mt2012228,prabha,F,9916580494,vizag
+insert mt2012229,kamaldeep,F,9916580494,vizag
+insert mt2012230,shatakirthi,M,9916580494,vizag
+insert mt2012240,sravvani,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+insert mt2012301,anne,F,9916580494,vizag
+insert mt2012302,preethi,F,9916580494,vizag
+insert mt2012303,yamini,F,9916580494,vizag
+insert mt2012304,varsha,F,9916580494,vizag
+insert mt2012305,sravani,F,9916580494,vizag
+insert mt2012306,shikha,F,9916580494,vizag
+insert mt2012307,prabha,F,9916580494,vizag
+insert mt2012308,kamaldeep,F,9916580494,vizag
+insert mt2012309,shatakirthi,M,9916580494,vizag
+insert mt2012310,sravvani,F,9916580494,vizag
+insert mt2012311,anne,F,9916580494,vizag
+insert mt2012312,preethi,F,9916580494,vizag
+insert mt2012313,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012315,sravani,F,9916580494,vizag
+insert mt2012316,shikha,F,9916580494,vizag
+insert mt2012317,prabha,F,9916580494,vizag
+insert mt2012318,kamaldeep,F,9916580494,vizag
+insert mt2012319,shatakirthi,M,9916580494,vizag
+insert mt2012320,sravvani,F,9916580494,vizag
+insert mt2012322,anne,F,9916580494,vizag
+insert mt2012323,preethi,F,9916580494,vizag
+insert mt2012324,yamini,F,9916580494,vizag
+insert mt2012325,varsha,F,9916580494,vizag
+insert mt2012401,anne,F,9916580494,vizag
+insert mt2012402,preethi,F,9916580494,vizag
+insert mt2012403,yamini,F,9916580494,vizag
+insert mt2012404,varsha,F,9916580494,vizag
+insert mt2012405,sravani,F,9916580494,vizag
+insert mt2012406,shikha,F,9916580494,vizag
+insert mt2012407,prabha,F,9916580494,vizag
+insert mt2012408,kamaldeep,F,9916580494,vizag
+insert mt2012409,shatakirthi,M,9916580494,vizag
+insert mt2012410,sravvani,F,9916580494,vizag
+insert mt2012411,anne,F,9916580494,vizag
+insert mt2012412,preethi,F,9916580494,vizag
+insert mt2012413,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012415,sravani,F,9916580494,vizag
+insert mt2012416,shikha,F,9916580494,vizag
+insert mt2012417,prabha,F,9916580494,vizag
+insert mt2012418,kamaldeep,F,9916580494,vizag
+insert mt2012419,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+insert mt20123601,anne,F,9916580494,vizag
+insert mt2012602,preethi,F,9916580494,vizag
+insert mt2012603,yamini,F,9916580494,vizag
+insert mt2012604,varsha,F,9916580494,vizag
+insert mt2012605,sravani,F,9916580494,vizag
+insert mt2012606,shikha,F,9916580494,vizag
+insert mt2012607,prabha,F,9916580494,vizag
+insert mt2012608,kamaldeep,F,9916580494,vizag
+insert mt2012609,shatakirthi,M,9916580494,vizag
+insert mt2012610,sravvani,F,9916580494,vizag
+insert mt2012611,anne,F,9916580494,vizag
+insert mt2012612,preethi,F,9916580494,vizag
+insert mt2012613,yamini,F,9916580494,vizag
+insert mt2012614,varsha,F,9916580494,vizag
+insert mt2012615,sravani,F,9916580494,vizag
+insert mt2012616,shikha,F,9916580494,vizag
+insert mt2012617,prabha,F,9916580494,vizag
+insert mt2012618,kamaldeep,F,9916580494,vizag
+insert mt2012619,shatakirthi,M,9916580494,vizag
+insert mt2012620,sravvani,F,9916580494,vizag
+insert mt2012622,anne,F,9916580494,vizag
+insert mt2012623,preethi,F,9916580494,vizag
+insert mt20123624,yamini,F,9916580494,vizag
+insert mt20123625,varsha,F,9916580494,vizag
+insert mt2012626,anne,F,9916580494,vizag
+insert mt2012627,preethi,F,9916580494,vizag
+insert mt2012703,yamini,F,9916580494,vizag
+insert mt2012704,varsha,F,9916580494,vizag
+insert mt2012705,sravani,F,9916580494,vizag
+insert mt2012706,shikha,F,9916580494,vizag
+insert mt2012707,prabha,F,9916580494,vizag
+insert mt2012708,kamaldeep,F,9916580494,vizag
+insert mt2012709,shatakirthi,M,9916580494,vizag
+insert mt2012710,sravvani,F,9916580494,vizag
+insert mt2012711,anne,F,9916580494,vizag
+insert mt2012712,preethi,F,9916580494,vizag
+insert mt2012713,yamini,F,9916580494,vizag
+insert mt2012714,varsha,F,9916580494,vizag
+insert mt2012715,sravani,F,9916580494,vizag
+insert mt2012716,shikha,F,9916580494,vizag
+insert mt2012717,prabha,F,9916580494,vizag
+insert mt2012718,kamaldeep,F,9916580494,vizag
+insert mt2012719,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+retrieve studentName,Address,gender where id=mt2012804
+retrieve studentName,Address,gender where id=mt2012805
+retrieve studentName,Address,gender where id=mt2012806
+retrieve studentName,Address,gender where id=mt2012807
+retrieve studentName,Address,gender where id=mt2012808
+retrieve studentName,Address,gender where id=mt2012809
+retrieve studentName,Address,gender where id=mt2012810
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2013499
+insert mt2012816,shikha,F,9916580494,vizag
+insert mt2012817,prabha,F,9916580494,vizag
+insert mt2012818,kamaldeep,F,9916580494,vizag
+insert mt2012819,shatakirthi,M,9916580494,vizag
+insert mt2012820,sravvani,F,9916580494,vizag
+insert mt2012822,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012099
+retrieve studentName,Address,gender where id=mt2012088
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012506
+retrieve studentName,Address,gender where id=mt2012507
+retrieve studentName,Address,gender where id=mt2012508
+retrieve studentName,Address,gender where id=mt2012509
+retrieve studentName,Address,gender where id=mt2012510
+retrieve studentName,Address,gender where id=mt2012511
+retrieve studentName,Address,gender where id=mt2012501
+retrieve studentName,Address,gender where id=mt2012502
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+update gender=M where id=mt2012070
+update gender=M where id=mt2012601
+update gender=M where id=mt2012602
+update gender=M where id=mt2012603
+update gender=M where id=mt2012604
+update gender=M where id=mt2012605
+update gender=M where id=mt2012607
+update gender=M where id=mt2012608
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+insert mt2012901,sravya,F,9999999999,vizag
+insert mt2012971,sravvani,F,9916580494,vizag
+insert mt2012922,nagashree,F,9916580494,bengaluru
+insert mt2012972,federer,M,1234567890,vizag
+insert mt2012972,teja,F,9916580494,vizag
+insert mt2012956,lakshya,F,9916580494,vizag
+insert mt2012957,sandeep,M,9916580494,vizag
+insert mt2012969,lakshmi,F,9916580494,vizag
+insert mt2012970,amar,M,9916580494,vizag
+insert mt2012910,puneeth,F,9916580494,vizag
+insert mt2012911,anne,F,9916580494,vizag
+insert mt2012912,preethi,F,9916580494,vizag
+insert mt2012913,yamini,F,9916580494,vizag
+insert mt2012914,varsha,F,9916580494,vizag
+insert mt2012915,sravani,F,9916580494,vizag
+insert mt2012916,shikha,F,9916580494,vizag
+insert mt2012917,prabha,F,9916580494,vizag
+insert mt2012918,kamaldeep,F,9916580494,vizag
+insert mt2012919,shatakirthi,M,9916580494,vizag
+insert mt2012920,sravvani,F,9916580494,vizag
+update gender=M where id=mt2012770
+update gender=M where id=mt2012701
+update gender=M where id=mt2012702
+update gender=M where id=mt2012703
+update gender=M where id=mt2012704
+update gender=M where id=mt2012705
+update gender=M where id=mt2012707
+update gender=M where id=mt2012708
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+create datastore tennis.xml
+load datastore tennis.xml
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,puneeth,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+insert mt2012201,anne,F,9916580494,vizag
+insert mt2012202,preethi,F,9916580494,vizag
+insert mt2012203,yamini,F,9916580494,vizag
+insert mt2012204,varsha,F,9916580494,vizag
+insert mt2012205,sravani,F,9916580494,vizag
+insert mt2012206,shikha,F,9916580494,vizag
+insert mt2012207,prabha,F,9916580494,vizag
+insert mt2012208,kamaldeep,F,9916580494,vizag
+insert mt2012209,shatakirthi,M,9916580494,vizag
+insert mt2012210,sravvani,F,9916580494,vizag
+insert mt2012211,anne,F,9916580494,vizag
+insert mt2012212,preethi,F,9916580494,vizag
+insert mt2012213,yamini,F,9916580494,vizag
+insert mt2012214,varsha,F,9916580494,vizag
+insert mt2012215,sravani,F,9916580494,vizag
+insert mt2012216,shikha,F,9916580494,vizag
+insert mt2012217,prabha,F,9916580494,vizag
+insert mt2012218,kamaldeep,F,9916580494,vizag
+insert mt2012219,shatakirthi,M,9916580494,vizag
+insert mt2012220,sravvani,F,9916580494,vizag
+insert mt2012222,anne,F,9916580494,vizag
+insert mt2012223,preethi,F,9916580494,vizag
+insert mt2012224,yamini,F,9916580494,vizag
+insert mt2012225,varsha,F,9916580494,vizag
+insert mt2012226,sravani,F,9916580494,vizag
+insert mt2012227,shikha,F,9916580494,vizag
+insert mt2012228,prabha,F,9916580494,vizag
+insert mt2012229,kamaldeep,F,9916580494,vizag
+insert mt2012230,shatakirthi,M,9916580494,vizag
+insert mt2012240,sravvani,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+insert mt2012301,anne,F,9916580494,vizag
+insert mt2012302,preethi,F,9916580494,vizag
+insert mt2012303,yamini,F,9916580494,vizag
+insert mt2012304,varsha,F,9916580494,vizag
+insert mt2012305,sravani,F,9916580494,vizag
+insert mt2012306,shikha,F,9916580494,vizag
+insert mt2012307,prabha,F,9916580494,vizag
+insert mt2012308,kamaldeep,F,9916580494,vizag
+insert mt2012309,shatakirthi,M,9916580494,vizag
+insert mt2012310,sravvani,F,9916580494,vizag
+insert mt2012311,anne,F,9916580494,vizag
+insert mt2012312,preethi,F,9916580494,vizag
+insert mt2012313,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012315,sravani,F,9916580494,vizag
+insert mt2012316,shikha,F,9916580494,vizag
+insert mt2012317,prabha,F,9916580494,vizag
+insert mt2012318,kamaldeep,F,9916580494,vizag
+insert mt2012319,shatakirthi,M,9916580494,vizag
+insert mt2012320,sravvani,F,9916580494,vizag
+insert mt2012322,anne,F,9916580494,vizag
+insert mt2012323,preethi,F,9916580494,vizag
+insert mt2012324,yamini,F,9916580494,vizag
+insert mt2012325,varsha,F,9916580494,vizag
+insert mt2012401,anne,F,9916580494,vizag
+insert mt2012402,preethi,F,9916580494,vizag
+insert mt2012403,yamini,F,9916580494,vizag
+insert mt2012404,varsha,F,9916580494,vizag
+insert mt2012405,sravani,F,9916580494,vizag
+insert mt2012406,shikha,F,9916580494,vizag
+insert mt2012407,prabha,F,9916580494,vizag
+insert mt2012408,kamaldeep,F,9916580494,vizag
+insert mt2012409,shatakirthi,M,9916580494,vizag
+insert mt2012410,sravvani,F,9916580494,vizag
+insert mt2012411,anne,F,9916580494,vizag
+insert mt2012412,preethi,F,9916580494,vizag
+insert mt2012413,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012415,sravani,F,9916580494,vizag
+insert mt2012416,shikha,F,9916580494,vizag
+insert mt2012417,prabha,F,9916580494,vizag
+insert mt2012418,kamaldeep,F,9916580494,vizag
+insert mt2012419,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+insert mt20123601,anne,F,9916580494,vizag
+insert mt2012602,preethi,F,9916580494,vizag
+insert mt2012603,yamini,F,9916580494,vizag
+insert mt2012604,varsha,F,9916580494,vizag
+insert mt2012605,sravani,F,9916580494,vizag
+insert mt2012606,shikha,F,9916580494,vizag
+insert mt2012607,prabha,F,9916580494,vizag
+insert mt2012608,kamaldeep,F,9916580494,vizag
+insert mt2012609,shatakirthi,M,9916580494,vizag
+insert mt2012610,sravvani,F,9916580494,vizag
+insert mt2012611,anne,F,9916580494,vizag
+insert mt2012612,preethi,F,9916580494,vizag
+insert mt2012613,yamini,F,9916580494,vizag
+insert mt2012614,varsha,F,9916580494,vizag
+insert mt2012615,sravani,F,9916580494,vizag
+insert mt2012616,shikha,F,9916580494,vizag
+insert mt2012617,prabha,F,9916580494,vizag
+insert mt2012618,kamaldeep,F,9916580494,vizag
+insert mt2012619,shatakirthi,M,9916580494,vizag
+insert mt2012620,sravvani,F,9916580494,vizag
+insert mt2012622,anne,F,9916580494,vizag
+insert mt2012623,preethi,F,9916580494,vizag
+insert mt20123624,yamini,F,9916580494,vizag
+insert mt20123625,varsha,F,9916580494,vizag
+insert mt2012626,anne,F,9916580494,vizag
+insert mt2012627,preethi,F,9916580494,vizag
+insert mt2012703,yamini,F,9916580494,vizag
+insert mt2012704,varsha,F,9916580494,vizag
+insert mt2012705,sravani,F,9916580494,vizag
+insert mt2012706,shikha,F,9916580494,vizag
+insert mt2012707,prabha,F,9916580494,vizag
+insert mt2012708,kamaldeep,F,9916580494,vizag
+insert mt2012709,shatakirthi,M,9916580494,vizag
+insert mt2012710,sravvani,F,9916580494,vizag
+insert mt2012711,anne,F,9916580494,vizag
+insert mt2012712,preethi,F,9916580494,vizag
+insert mt2012713,yamini,F,9916580494,vizag
+insert mt2012714,varsha,F,9916580494,vizag
+insert mt2012715,sravani,F,9916580494,vizag
+insert mt2012716,shikha,F,9916580494,vizag
+insert mt2012717,prabha,F,9916580494,vizag
+insert mt2012718,kamaldeep,F,9916580494,vizag
+insert mt2012719,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+retrieve studentName,Address,gender where id=mt2012804
+retrieve studentName,Address,gender where id=mt2012805
+retrieve studentName,Address,gender where id=mt2012806
+retrieve studentName,Address,gender where id=mt2012807
+retrieve studentName,Address,gender where id=mt2012808
+retrieve studentName,Address,gender where id=mt2012809
+retrieve studentName,Address,gender where id=mt2012810
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2013499
+insert mt2012816,shikha,F,9916580494,vizag
+insert mt2012817,prabha,F,9916580494,vizag
+insert mt2012818,kamaldeep,F,9916580494,vizag
+insert mt2012819,shatakirthi,M,9916580494,vizag
+insert mt2012820,sravvani,F,9916580494,vizag
+insert mt2012822,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012099
+retrieve studentName,Address,gender where id=mt2012088
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012506
+retrieve studentName,Address,gender where id=mt2012507
+retrieve studentName,Address,gender where id=mt2012508
+retrieve studentName,Address,gender where id=mt2012509
+retrieve studentName,Address,gender where id=mt2012510
+retrieve studentName,Address,gender where id=mt2012511
+retrieve studentName,Address,gender where id=mt2012501
+retrieve studentName,Address,gender where id=mt2012502
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+update gender=M where id=mt2012070
+update gender=M where id=mt2012601
+update gender=M where id=mt2012602
+update gender=M where id=mt2012603
+update gender=M where id=mt2012604
+update gender=M where id=mt2012605
+update gender=M where id=mt2012607
+update gender=M where id=mt2012608
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012121
+retrieve studentName,Address,gender where id=mt2012122
+retrieve studentName,Address,gender where id=mt2012123
+retrieve studentName,Address,gender where id=mt2012124
+retrieve studentName,Address,gender where id=mt2012115
+retrieve studentName,Address,gender where id=mt2012116
+retrieve studentName,Address,gender where id=mt2012169
+retrieve studentName,Address,gender where id=mt2012157
+retrieve studentName,Address,gender where id=mt2012200
+retrieve studentName,Address,gender where id=mt2012300
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,puneeth,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+insert mt2012201,anne,F,9916580494,vizag
+insert mt2012202,preethi,F,9916580494,vizag
+insert mt2012203,yamini,F,9916580494,vizag
+insert mt2012204,varsha,F,9916580494,vizag
+insert mt2012205,sravani,F,9916580494,vizag
+insert mt2012206,shikha,F,9916580494,vizag
+insert mt2012207,prabha,F,9916580494,vizag
+insert mt2012208,kamaldeep,F,9916580494,vizag
+insert mt2012209,shatakirthi,M,9916580494,vizag
+insert mt2012210,sravvani,F,9916580494,vizag
+insert mt2012211,anne,F,9916580494,vizag
+insert mt2012212,preethi,F,9916580494,vizag
+insert mt2012213,yamini,F,9916580494,vizag
+insert mt2012214,varsha,F,9916580494,vizag
+insert mt2012215,sravani,F,9916580494,vizag
+insert mt2012216,shikha,F,9916580494,vizag
+insert mt2012217,prabha,F,9916580494,vizag
+insert mt2012218,kamaldeep,F,9916580494,vizag
+insert mt2012219,shatakirthi,M,9916580494,vizag
+insert mt2012220,sravvani,F,9916580494,vizag
+insert mt2012222,anne,F,9916580494,vizag
+insert mt2012223,preethi,F,9916580494,vizag
+insert mt2012224,yamini,F,9916580494,vizag
+insert mt2012225,varsha,F,9916580494,vizag
+insert mt2012226,sravani,F,9916580494,vizag
+insert mt2012227,shikha,F,9916580494,vizag
+insert mt2012228,prabha,F,9916580494,vizag
+insert mt2012229,kamaldeep,F,9916580494,vizag
+insert mt2012230,shatakirthi,M,9916580494,vizag
+insert mt2012240,sravvani,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+insert mt2012301,anne,F,9916580494,vizag
+insert mt2012302,preethi,F,9916580494,vizag
+insert mt2012303,yamini,F,9916580494,vizag
+insert mt2012304,varsha,F,9916580494,vizag
+insert mt2012305,sravani,F,9916580494,vizag
+insert mt2012306,shikha,F,9916580494,vizag
+insert mt2012307,prabha,F,9916580494,vizag
+insert mt2012308,kamaldeep,F,9916580494,vizag
+insert mt2012309,shatakirthi,M,9916580494,vizag
+insert mt2012310,sravvani,F,9916580494,vizag
+insert mt2012311,anne,F,9916580494,vizag
+insert mt2012312,preethi,F,9916580494,vizag
+insert mt2012313,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012315,sravani,F,9916580494,vizag
+insert mt2012316,shikha,F,9916580494,vizag
+insert mt2012317,prabha,F,9916580494,vizag
+insert mt2012318,kamaldeep,F,9916580494,vizag
+insert mt2012319,shatakirthi,M,9916580494,vizag
+insert mt2012320,sravvani,F,9916580494,vizag
+insert mt2012322,anne,F,9916580494,vizag
+insert mt2012323,preethi,F,9916580494,vizag
+insert mt2012324,yamini,F,9916580494,vizag
+insert mt2012325,varsha,F,9916580494,vizag
+insert mt2012401,anne,F,9916580494,vizag
+insert mt2012402,preethi,F,9916580494,vizag
+insert mt2012403,yamini,F,9916580494,vizag
+insert mt2012404,varsha,F,9916580494,vizag
+insert mt2012405,sravani,F,9916580494,vizag
+insert mt2012406,shikha,F,9916580494,vizag
+insert mt2012407,prabha,F,9916580494,vizag
+insert mt2012408,kamaldeep,F,9916580494,vizag
+insert mt2012409,shatakirthi,M,9916580494,vizag
+insert mt2012410,sravvani,F,9916580494,vizag
+insert mt2012411,anne,F,9916580494,vizag
+insert mt2012412,preethi,F,9916580494,vizag
+insert mt2012413,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012415,sravani,F,9916580494,vizag
+insert mt2012416,shikha,F,9916580494,vizag
+insert mt2012417,prabha,F,9916580494,vizag
+insert mt2012418,kamaldeep,F,9916580494,vizag
+insert mt2012419,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+insert mt20123601,anne,F,9916580494,vizag
+insert mt2012602,preethi,F,9916580494,vizag
+insert mt2012603,yamini,F,9916580494,vizag
+insert mt2012604,varsha,F,9916580494,vizag
+insert mt2012605,sravani,F,9916580494,vizag
+insert mt2012606,shikha,F,9916580494,vizag
+insert mt2012607,prabha,F,9916580494,vizag
+insert mt2012608,kamaldeep,F,9916580494,vizag
+insert mt2012609,shatakirthi,M,9916580494,vizag
+insert mt2012610,sravvani,F,9916580494,vizag
+insert mt2012611,anne,F,9916580494,vizag
+insert mt2012612,preethi,F,9916580494,vizag
+insert mt2012613,yamini,F,9916580494,vizag
+insert mt2012614,varsha,F,9916580494,vizag
+insert mt2012615,sravani,F,9916580494,vizag
+insert mt2012616,shikha,F,9916580494,vizag
+insert mt2012617,prabha,F,9916580494,vizag
+insert mt2012618,kamaldeep,F,9916580494,vizag
+insert mt2012619,shatakirthi,M,9916580494,vizag
+insert mt2012620,sravvani,F,9916580494,vizag
+insert mt2012622,anne,F,9916580494,vizag
+insert mt2012623,preethi,F,9916580494,vizag
+insert mt20123624,yamini,F,9916580494,vizag
+insert mt20123625,varsha,F,9916580494,vizag
+insert mt2012626,anne,F,9916580494,vizag
+insert mt2012627,preethi,F,9916580494,vizag
+insert mt2012703,yamini,F,9916580494,vizag
+insert mt2012704,varsha,F,9916580494,vizag
+insert mt2012705,sravani,F,9916580494,vizag
+insert mt2012706,shikha,F,9916580494,vizag
+insert mt2012707,prabha,F,9916580494,vizag
+insert mt2012708,kamaldeep,F,9916580494,vizag
+insert mt2012709,shatakirthi,M,9916580494,vizag
+insert mt2012710,sravvani,F,9916580494,vizag
+insert mt2012711,anne,F,9916580494,vizag
+insert mt2012712,preethi,F,9916580494,vizag
+insert mt2012713,yamini,F,9916580494,vizag
+insert mt2012714,varsha,F,9916580494,vizag
+insert mt2012715,sravani,F,9916580494,vizag
+insert mt2012716,shikha,F,9916580494,vizag
+insert mt2012717,prabha,F,9916580494,vizag
+insert mt2012718,kamaldeep,F,9916580494,vizag
+insert mt2012719,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+retrieve studentName,Address,gender where id=mt2012804
+retrieve studentName,Address,gender where id=mt2012805
+retrieve studentName,Address,gender where id=mt2012806
+retrieve studentName,Address,gender where id=mt2012807
+retrieve studentName,Address,gender where id=mt2012808
+retrieve studentName,Address,gender where id=mt2012809
+retrieve studentName,Address,gender where id=mt2012810
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2013499
+insert mt2012816,shikha,F,9916580494,vizag
+insert mt2012817,prabha,F,9916580494,vizag
+insert mt2012818,kamaldeep,F,9916580494,vizag
+insert mt2012819,shatakirthi,M,9916580494,vizag
+insert mt2012820,sravvani,F,9916580494,vizag
+insert mt2012822,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012099
+retrieve studentName,Address,gender where id=mt2012088
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012506
+retrieve studentName,Address,gender where id=mt2012507
+retrieve studentName,Address,gender where id=mt2012508
+retrieve studentName,Address,gender where id=mt2012509
+retrieve studentName,Address,gender where id=mt2012510
+retrieve studentName,Address,gender where id=mt2012511
+retrieve studentName,Address,gender where id=mt2012501
+retrieve studentName,Address,gender where id=mt2012502
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+update gender=M where id=mt2012070
+update gender=M where id=mt2012601
+update gender=M where id=mt2012602
+update gender=M where id=mt2012603
+update gender=M where id=mt2012604
+update gender=M where id=mt2012605
+update gender=M where id=mt2012607
+update gender=M where id=mt2012608
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+insert mt2012901,sravya,F,9999999999,vizag
+insert mt2012971,sravvani,F,9916580494,vizag
+insert mt2012922,nagashree,F,9916580494,bengaluru
+insert mt2012972,federer,M,1234567890,vizag
+insert mt2012972,teja,F,9916580494,vizag
+insert mt2012956,lakshya,F,9916580494,vizag
+insert mt2012957,sandeep,M,9916580494,vizag
+insert mt2012969,lakshmi,F,9916580494,vizag
+insert mt2012970,amar,M,9916580494,vizag
+insert mt2012910,puneeth,F,9916580494,vizag
+insert mt2012911,anne,F,9916580494,vizag
+insert mt2012912,preethi,F,9916580494,vizag
+insert mt2012913,yamini,F,9916580494,vizag
+insert mt2012914,varsha,F,9916580494,vizag
+insert mt2012915,sravani,F,9916580494,vizag
+insert mt2012916,shikha,F,9916580494,vizag
+insert mt2012917,prabha,F,9916580494,vizag
+insert mt2012918,kamaldeep,F,9916580494,vizag
+insert mt2012919,shatakirthi,M,9916580494,vizag
+insert mt2012920,sravvani,F,9916580494,vizag
+update gender=M where id=mt2012770
+update gender=M where id=mt2012701
+update gender=M where id=mt2012702
+update gender=M where id=mt2012703
+update gender=M where id=mt2012704
+update gender=M where id=mt2012705
+update gender=M where id=mt2012707
+update gender=M where id=mt2012708
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,puneeth,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+insert mt2012201,anne,F,9916580494,vizag
+insert mt2012202,preethi,F,9916580494,vizag
+insert mt2012203,yamini,F,9916580494,vizag
+insert mt2012204,varsha,F,9916580494,vizag
+insert mt2012205,sravani,F,9916580494,vizag
+insert mt2012206,shikha,F,9916580494,vizag
+insert mt2012207,prabha,F,9916580494,vizag
+insert mt2012208,kamaldeep,F,9916580494,vizag
+insert mt2012209,shatakirthi,M,9916580494,vizag
+insert mt2012210,sravvani,F,9916580494,vizag
+insert mt2012211,anne,F,9916580494,vizag
+insert mt2012212,preethi,F,9916580494,vizag
+insert mt2012213,yamini,F,9916580494,vizag
+insert mt2012214,varsha,F,9916580494,vizag
+insert mt2012215,sravani,F,9916580494,vizag
+insert mt2012216,shikha,F,9916580494,vizag
+insert mt2012217,prabha,F,9916580494,vizag
+insert mt2012218,kamaldeep,F,9916580494,vizag
+insert mt2012219,shatakirthi,M,9916580494,vizag
+insert mt2012220,sravvani,F,9916580494,vizag
+insert mt2012222,anne,F,9916580494,vizag
+insert mt2012223,preethi,F,9916580494,vizag
+insert mt2012224,yamini,F,9916580494,vizag
+insert mt2012225,varsha,F,9916580494,vizag
+insert mt2012226,sravani,F,9916580494,vizag
+insert mt2012227,shikha,F,9916580494,vizag
+insert mt2012228,prabha,F,9916580494,vizag
+insert mt2012229,kamaldeep,F,9916580494,vizag
+insert mt2012230,shatakirthi,M,9916580494,vizag
+insert mt2012240,sravvani,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+insert mt2012301,anne,F,9916580494,vizag
+insert mt2012302,preethi,F,9916580494,vizag
+insert mt2012303,yamini,F,9916580494,vizag
+insert mt2012304,varsha,F,9916580494,vizag
+insert mt2012305,sravani,F,9916580494,vizag
+insert mt2012306,shikha,F,9916580494,vizag
+insert mt2012307,prabha,F,9916580494,vizag
+insert mt2012308,kamaldeep,F,9916580494,vizag
+insert mt2012309,shatakirthi,M,9916580494,vizag
+insert mt2012310,sravvani,F,9916580494,vizag
+insert mt2012311,anne,F,9916580494,vizag
+insert mt2012312,preethi,F,9916580494,vizag
+insert mt2012313,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012315,sravani,F,9916580494,vizag
+insert mt2012316,shikha,F,9916580494,vizag
+insert mt2012317,prabha,F,9916580494,vizag
+insert mt2012318,kamaldeep,F,9916580494,vizag
+insert mt2012319,shatakirthi,M,9916580494,vizag
+insert mt2012320,sravvani,F,9916580494,vizag
+insert mt2012322,anne,F,9916580494,vizag
+insert mt2012323,preethi,F,9916580494,vizag
+insert mt2012324,yamini,F,9916580494,vizag
+insert mt2012325,varsha,F,9916580494,vizag
+insert mt2012401,anne,F,9916580494,vizag
+insert mt2012402,preethi,F,9916580494,vizag
+insert mt2012403,yamini,F,9916580494,vizag
+insert mt2012404,varsha,F,9916580494,vizag
+insert mt2012405,sravani,F,9916580494,vizag
+insert mt2012406,shikha,F,9916580494,vizag
+insert mt2012407,prabha,F,9916580494,vizag
+insert mt2012408,kamaldeep,F,9916580494,vizag
+insert mt2012409,shatakirthi,M,9916580494,vizag
+insert mt2012410,sravvani,F,9916580494,vizag
+insert mt2012411,anne,F,9916580494,vizag
+insert mt2012412,preethi,F,9916580494,vizag
+insert mt2012413,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012415,sravani,F,9916580494,vizag
+insert mt2012416,shikha,F,9916580494,vizag
+insert mt2012417,prabha,F,9916580494,vizag
+insert mt2012418,kamaldeep,F,9916580494,vizag
+insert mt2012419,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+insert mt20123601,anne,F,9916580494,vizag
+insert mt2012602,preethi,F,9916580494,vizag
+insert mt2012603,yamini,F,9916580494,vizag
+insert mt2012604,varsha,F,9916580494,vizag
+insert mt2012605,sravani,F,9916580494,vizag
+insert mt2012606,shikha,F,9916580494,vizag
+insert mt2012607,prabha,F,9916580494,vizag
+insert mt2012608,kamaldeep,F,9916580494,vizag
+insert mt2012609,shatakirthi,M,9916580494,vizag
+insert mt2012610,sravvani,F,9916580494,vizag
+insert mt2012611,anne,F,9916580494,vizag
+insert mt2012612,preethi,F,9916580494,vizag
+insert mt2012613,yamini,F,9916580494,vizag
+insert mt2012614,varsha,F,9916580494,vizag
+insert mt2012615,sravani,F,9916580494,vizag
+insert mt2012616,shikha,F,9916580494,vizag
+insert mt2012617,prabha,F,9916580494,vizag
+insert mt2012618,kamaldeep,F,9916580494,vizag
+insert mt2012619,shatakirthi,M,9916580494,vizag
+insert mt2012620,sravvani,F,9916580494,vizag
+insert mt2012622,anne,F,9916580494,vizag
+insert mt2012623,preethi,F,9916580494,vizag
+insert mt20123624,yamini,F,9916580494,vizag
+insert mt20123625,varsha,F,9916580494,vizag
+insert mt2012626,anne,F,9916580494,vizag
+insert mt2012627,preethi,F,9916580494,vizag
+insert mt2012703,yamini,F,9916580494,vizag
+insert mt2012704,varsha,F,9916580494,vizag
+insert mt2012705,sravani,F,9916580494,vizag
+insert mt2012706,shikha,F,9916580494,vizag
+insert mt2012707,prabha,F,9916580494,vizag
+insert mt2012708,kamaldeep,F,9916580494,vizag
+insert mt2012709,shatakirthi,M,9916580494,vizag
+insert mt2012710,sravvani,F,9916580494,vizag
+insert mt2012711,anne,F,9916580494,vizag
+insert mt2012712,preethi,F,9916580494,vizag
+insert mt2012713,yamini,F,9916580494,vizag
+insert mt2012714,varsha,F,9916580494,vizag
+insert mt2012715,sravani,F,9916580494,vizag
+insert mt2012716,shikha,F,9916580494,vizag
+insert mt2012717,prabha,F,9916580494,vizag
+insert mt2012718,kamaldeep,F,9916580494,vizag
+insert mt2012719,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+retrieve studentName,Address,gender where id=mt2012804
+retrieve studentName,Address,gender where id=mt2012805
+retrieve studentName,Address,gender where id=mt2012806
+retrieve studentName,Address,gender where id=mt2012807
+retrieve studentName,Address,gender where id=mt2012808
+retrieve studentName,Address,gender where id=mt2012809
+retrieve studentName,Address,gender where id=mt2012810
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2013499
+insert mt2012816,shikha,F,9916580494,vizag
+insert mt2012817,prabha,F,9916580494,vizag
+insert mt2012818,kamaldeep,F,9916580494,vizag
+insert mt2012819,shatakirthi,M,9916580494,vizag
+insert mt2012820,sravvani,F,9916580494,vizag
+insert mt2012822,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012099
+retrieve studentName,Address,gender where id=mt2012088
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012506
+retrieve studentName,Address,gender where id=mt2012507
+retrieve studentName,Address,gender where id=mt2012508
+retrieve studentName,Address,gender where id=mt2012509
+retrieve studentName,Address,gender where id=mt2012510
+retrieve studentName,Address,gender where id=mt2012511
+retrieve studentName,Address,gender where id=mt2012501
+retrieve studentName,Address,gender where id=mt2012502
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+update gender=M where id=mt2012070
+update gender=M where id=mt2012601
+update gender=M where id=mt2012602
+update gender=M where id=mt2012603
+update gender=M where id=mt2012604
+update gender=M where id=mt2012605
+update gender=M where id=mt2012607
+update gender=M where id=mt2012608
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012121
+retrieve studentName,Address,gender where id=mt2012122
+retrieve studentName,Address,gender where id=mt2012123
+retrieve studentName,Address,gender where id=mt2012124
+retrieve studentName,Address,gender where id=mt2012115
+retrieve studentName,Address,gender where id=mt2012116
+retrieve studentName,Address,gender where id=mt2012169
+retrieve studentName,Address,gender where id=mt2012157
+retrieve studentName,Address,gender where id=mt2012200
+retrieve studentName,Address,gender where id=mt2012300
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+insert mt2012070,sravya,F,9999999999,vizag
+insert mt2012171,sravvani,F,9916580494,vizag
+insert mt2012122,nagashree,F,9916580494,bengaluru
+insert mt2012172,federer,M,1234567890,vizag
+insert mt2012172,teja,F,9916580494,vizag
+insert mt2012156,lakshya,F,9916580494,vizag
+insert mt2012157,sandeep,M,9916580494,vizag
+insert mt2012169,lakshmi,F,9916580494,vizag
+insert mt2012170,amar,M,9916580494,vizag
+insert mt2012110,puneeth,F,9916580494,vizag
+insert mt2012111,anne,F,9916580494,vizag
+insert mt2012112,preethi,F,9916580494,vizag
+insert mt2012113,yamini,F,9916580494,vizag
+insert mt2012114,varsha,F,9916580494,vizag
+insert mt2012115,sravani,F,9916580494,vizag
+insert mt2012116,shikha,F,9916580494,vizag
+insert mt2012117,prabha,F,9916580494,vizag
+insert mt2012118,kamaldeep,F,9916580494,vizag
+insert mt2012119,shatakirthi,M,9916580494,vizag
+insert mt2012120,sravvani,F,9916580494,vizag
+update studentName=Nagashree where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update gender=M where id=mt2012070
+update Address=delhi where id=mt2012112
+update Address=delhi,gender=M where id=mt2012156
+update Address=delhi where id=mt2012157
+update Address=chennai where id=mt2012113
+insert mt2012201,anne,F,9916580494,vizag
+insert mt2012202,preethi,F,9916580494,vizag
+insert mt2012203,yamini,F,9916580494,vizag
+insert mt2012204,varsha,F,9916580494,vizag
+insert mt2012205,sravani,F,9916580494,vizag
+insert mt2012206,shikha,F,9916580494,vizag
+insert mt2012207,prabha,F,9916580494,vizag
+insert mt2012208,kamaldeep,F,9916580494,vizag
+insert mt2012209,shatakirthi,M,9916580494,vizag
+insert mt2012210,sravvani,F,9916580494,vizag
+insert mt2012211,anne,F,9916580494,vizag
+insert mt2012212,preethi,F,9916580494,vizag
+insert mt2012213,yamini,F,9916580494,vizag
+insert mt2012214,varsha,F,9916580494,vizag
+insert mt2012215,sravani,F,9916580494,vizag
+insert mt2012216,shikha,F,9916580494,vizag
+insert mt2012217,prabha,F,9916580494,vizag
+insert mt2012218,kamaldeep,F,9916580494,vizag
+insert mt2012219,shatakirthi,M,9916580494,vizag
+insert mt2012220,sravvani,F,9916580494,vizag
+insert mt2012222,anne,F,9916580494,vizag
+insert mt2012223,preethi,F,9916580494,vizag
+insert mt2012224,yamini,F,9916580494,vizag
+insert mt2012225,varsha,F,9916580494,vizag
+insert mt2012226,sravani,F,9916580494,vizag
+insert mt2012227,shikha,F,9916580494,vizag
+insert mt2012228,prabha,F,9916580494,vizag
+insert mt2012229,kamaldeep,F,9916580494,vizag
+insert mt2012230,shatakirthi,M,9916580494,vizag
+insert mt2012240,sravvani,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+insert mt2012301,anne,F,9916580494,vizag
+insert mt2012302,preethi,F,9916580494,vizag
+insert mt2012303,yamini,F,9916580494,vizag
+insert mt2012304,varsha,F,9916580494,vizag
+insert mt2012305,sravani,F,9916580494,vizag
+insert mt2012306,shikha,F,9916580494,vizag
+insert mt2012307,prabha,F,9916580494,vizag
+insert mt2012308,kamaldeep,F,9916580494,vizag
+insert mt2012309,shatakirthi,M,9916580494,vizag
+insert mt2012310,sravvani,F,9916580494,vizag
+insert mt2012311,anne,F,9916580494,vizag
+insert mt2012312,preethi,F,9916580494,vizag
+insert mt2012313,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012315,sravani,F,9916580494,vizag
+insert mt2012316,shikha,F,9916580494,vizag
+insert mt2012317,prabha,F,9916580494,vizag
+insert mt2012318,kamaldeep,F,9916580494,vizag
+insert mt2012319,shatakirthi,M,9916580494,vizag
+insert mt2012320,sravvani,F,9916580494,vizag
+insert mt2012322,anne,F,9916580494,vizag
+insert mt2012323,preethi,F,9916580494,vizag
+insert mt2012324,yamini,F,9916580494,vizag
+insert mt2012325,varsha,F,9916580494,vizag
+insert mt2012401,anne,F,9916580494,vizag
+insert mt2012402,preethi,F,9916580494,vizag
+insert mt2012403,yamini,F,9916580494,vizag
+insert mt2012404,varsha,F,9916580494,vizag
+insert mt2012405,sravani,F,9916580494,vizag
+insert mt2012406,shikha,F,9916580494,vizag
+insert mt2012407,prabha,F,9916580494,vizag
+insert mt2012408,kamaldeep,F,9916580494,vizag
+insert mt2012409,shatakirthi,M,9916580494,vizag
+insert mt2012410,sravvani,F,9916580494,vizag
+insert mt2012411,anne,F,9916580494,vizag
+insert mt2012412,preethi,F,9916580494,vizag
+insert mt2012413,yamini,F,9916580494,vizag
+insert mt2012314,varsha,F,9916580494,vizag
+insert mt2012415,sravani,F,9916580494,vizag
+insert mt2012416,shikha,F,9916580494,vizag
+insert mt2012417,prabha,F,9916580494,vizag
+insert mt2012418,kamaldeep,F,9916580494,vizag
+insert mt2012419,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+insert mt20123601,anne,F,9916580494,vizag
+insert mt2012602,preethi,F,9916580494,vizag
+insert mt2012603,yamini,F,9916580494,vizag
+insert mt2012604,varsha,F,9916580494,vizag
+insert mt2012605,sravani,F,9916580494,vizag
+insert mt2012606,shikha,F,9916580494,vizag
+insert mt2012607,prabha,F,9916580494,vizag
+insert mt2012608,kamaldeep,F,9916580494,vizag
+insert mt2012609,shatakirthi,M,9916580494,vizag
+insert mt2012610,sravvani,F,9916580494,vizag
+insert mt2012611,anne,F,9916580494,vizag
+insert mt2012612,preethi,F,9916580494,vizag
+insert mt2012613,yamini,F,9916580494,vizag
+insert mt2012614,varsha,F,9916580494,vizag
+insert mt2012615,sravani,F,9916580494,vizag
+insert mt2012616,shikha,F,9916580494,vizag
+insert mt2012617,prabha,F,9916580494,vizag
+insert mt2012618,kamaldeep,F,9916580494,vizag
+insert mt2012619,shatakirthi,M,9916580494,vizag
+insert mt2012620,sravvani,F,9916580494,vizag
+insert mt2012622,anne,F,9916580494,vizag
+insert mt2012623,preethi,F,9916580494,vizag
+insert mt20123624,yamini,F,9916580494,vizag
+insert mt20123625,varsha,F,9916580494,vizag
+insert mt2012626,anne,F,9916580494,vizag
+insert mt2012627,preethi,F,9916580494,vizag
+insert mt2012703,yamini,F,9916580494,vizag
+insert mt2012704,varsha,F,9916580494,vizag
+insert mt2012705,sravani,F,9916580494,vizag
+insert mt2012706,shikha,F,9916580494,vizag
+insert mt2012707,prabha,F,9916580494,vizag
+insert mt2012708,kamaldeep,F,9916580494,vizag
+insert mt2012709,shatakirthi,M,9916580494,vizag
+insert mt2012710,sravvani,F,9916580494,vizag
+insert mt2012711,anne,F,9916580494,vizag
+insert mt2012712,preethi,F,9916580494,vizag
+insert mt2012713,yamini,F,9916580494,vizag
+insert mt2012714,varsha,F,9916580494,vizag
+insert mt2012715,sravani,F,9916580494,vizag
+insert mt2012716,shikha,F,9916580494,vizag
+insert mt2012717,prabha,F,9916580494,vizag
+insert mt2012718,kamaldeep,F,9916580494,vizag
+insert mt2012719,shatakirthi,M,9916580494,vizag
+insert mt2012420,sravvani,F,9916580494,vizag
+insert mt2012422,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012601
+retrieve studentName,Address,gender where id=mt2012602
+retrieve studentName,Address,gender where id=mt2012603
+retrieve studentName,Address,gender where id=mt2012604
+retrieve studentName,Address,gender where id=mt2012605
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012707
+retrieve studentName,Address,gender where id=mt2012708
+retrieve studentName,Address,gender where id=mt2012709
+retrieve studentName,Address,gender where id=mt2012710
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2012712
+retrieve studentName,Address,gender where id=mt2012713
+retrieve studentName,Address,gender where id=mt2012803
+retrieve studentName,Address,gender where id=mt2012804
+retrieve studentName,Address,gender where id=mt2012805
+retrieve studentName,Address,gender where id=mt2012806
+retrieve studentName,Address,gender where id=mt2012807
+retrieve studentName,Address,gender where id=mt2012808
+retrieve studentName,Address,gender where id=mt2012809
+retrieve studentName,Address,gender where id=mt2012810
+retrieve studentName,Address,gender where id=mt2012711
+retrieve studentName,Address,gender where id=mt2013499
+insert mt2012816,shikha,F,9916580494,vizag
+insert mt2012817,prabha,F,9916580494,vizag
+insert mt2012818,kamaldeep,F,9916580494,vizag
+insert mt2012819,shatakirthi,M,9916580494,vizag
+insert mt2012820,sravvani,F,9916580494,vizag
+insert mt2012822,anne,F,9916580494,vizag
+retrieve studentName,Address,gender where id=mt2012070
+retrieve studentName,Address,gender where id=mt2012099
+retrieve studentName,Address,gender where id=mt2012088
+retrieve studentName,Address,gender where id=mt2012301
+retrieve studentName,Address,gender where id=mt2012302
+retrieve studentName,Address,gender where id=mt2012303
+retrieve studentName,Address,gender where id=mt2012304
+retrieve studentName,Address,gender where id=mt2012305
+retrieve studentName,Address,gender where id=mt2012306
+retrieve studentName,Address,gender where id=mt2012307
+retrieve studentName,Address,gender where id=mt2012308
+retrieve studentName,Address,gender where id=mt2012309
+retrieve studentName,Address,gender where id=mt2012310
+retrieve studentName,Address,gender where id=mt2012311
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update gender=F where id=mt2012070
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012203
+retrieve studentName,Address,gender where id=mt2012204
+retrieve studentName,Address,gender where id=mt2012205
+retrieve studentName,Address,gender where id=mt2012206
+retrieve studentName,Address,gender where id=mt2012207
+retrieve studentName,Address,gender where id=mt2012208
+retrieve studentName,Address,gender where id=mt2012209
+retrieve studentName,Address,gender where id=mt2012210
+retrieve studentName,Address,gender where id=mt2012211
+retrieve studentName,Address,gender where id=mt2012201
+retrieve studentName,Address,gender where id=mt2012202
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012506
+retrieve studentName,Address,gender where id=mt2012507
+retrieve studentName,Address,gender where id=mt2012508
+retrieve studentName,Address,gender where id=mt2012509
+retrieve studentName,Address,gender where id=mt2012510
+retrieve studentName,Address,gender where id=mt2012511
+retrieve studentName,Address,gender where id=mt2012501
+retrieve studentName,Address,gender where id=mt2012502
+retrieve studentName,Address,gender where id=mt2012503
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+retrieve studentName,Address,gender where id=mt2012504
+retrieve studentName,Address,gender where id=mt2012505
+retrieve studentName,Address,gender where id=mt2012606
+retrieve studentName,Address,gender where id=mt2012667
+retrieve studentName,Address,gender where id=mt2012608
+retrieve studentName,Address,gender where id=mt2012609
+retrieve studentName,Address,gender where id=mt2012610
+retrieve studentName,Address,gender where id=mt2012611
+update gender=M where id=mt2012070
+update gender=M where id=mt2012601
+update gender=M where id=mt2012602
+update gender=M where id=mt2012603
+update gender=M where id=mt2012604
+update gender=M where id=mt2012605
+update gender=M where id=mt2012607
+update gender=M where id=mt2012608
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
+insert mt2012901,sravya,F,9999999999,vizag
+insert mt2012971,sravvani,F,9916580494,vizag
+insert mt2012922,nagashree,F,9916580494,bengaluru
+insert mt2012972,federer,M,1234567890,vizag
+insert mt2012972,teja,F,9916580494,vizag
+insert mt2012956,lakshya,F,9916580494,vizag
+insert mt2012957,sandeep,M,9916580494,vizag
+insert mt2012969,lakshmi,F,9916580494,vizag
+insert mt2012970,amar,M,9916580494,vizag
+insert mt2012910,puneeth,F,9916580494,vizag
+insert mt2012911,anne,F,9916580494,vizag
+insert mt2012912,preethi,F,9916580494,vizag
+insert mt2012913,yamini,F,9916580494,vizag
+insert mt2012914,varsha,F,9916580494,vizag
+insert mt2012915,sravani,F,9916580494,vizag
+insert mt2012916,shikha,F,9916580494,vizag
+insert mt2012917,prabha,F,9916580494,vizag
+insert mt2012918,kamaldeep,F,9916580494,vizag
+insert mt2012919,shatakirthi,M,9916580494,vizag
+insert mt2012920,sravvani,F,9916580494,vizag
+update gender=M where id=mt2012770
+update gender=M where id=mt2012701
+update gender=M where id=mt2012702
+update gender=M where id=mt2012703
+update gender=M where id=mt2012704
+update gender=M where id=mt2012705
+update gender=M where id=mt2012707
+update gender=M where id=mt2012708
+update Address=pune where id=mt2012112
+update Address=pune,gender=M where id=mt2012156
+update Address=pune where id=mt2012157
+update Address=pune where id=mt2012113
+update Address=pune where id=mt2012112
+update Address=raipur where id=mt2012156
+update Address=ranchi where id=mt2012157
+update Address=varanasi where id=mt2012113
